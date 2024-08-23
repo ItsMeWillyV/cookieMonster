@@ -5,8 +5,8 @@ A simple &amp; lightweight JavaScript library to manage cookies
   cookieMonster.set("foo", "bar", 1);
 
   // Get the value of a cookie.
-  console.log(cookieMonster.get("foo"))
+  console.log(cookieMonster.get("foo"));
 
   // Delete a cookie.
-  cookieMonster.delete("foo")
+  cookieMonster.delete("foo");
 ```
