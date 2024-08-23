@@ -4,7 +4,7 @@ A simple &amp; lightweight JavaScript library to manage cookies
   // Set a cookie with name "foo", value "bar", and expiration of 1 day.
   cookieMonster.set("foo", "bar", 1);
 
-  // Get a cookie by name.
+  // Get the value of a cookie.
   console.log(cookieMonster.get("foo"))
 
   // Delete a cookie.
