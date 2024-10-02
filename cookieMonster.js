@@ -1,16 +1,6 @@
 /*
-Made by William Vanderpool
-		          __          ___ _ _    __      __
-           /\     \ \        / (_) | |   \ \    / /
- _         )( _____\ \__/\__/ / _| | |____\ \ _/ /_________
-(_)///////(**)______\ \/  \/ /_| | | | |_| \ \/ /__________>
-           )(        \  /\  /  | | | | |_| |\  /   
-           \/         \/  \/   |_|_|_|\__, | \/   
-		                               __/ |   
-		                              |___/        
+	Made by WillyV
 */
-
-
 const cookieMonster = { 
 	set: function (cookieName, cookieData, daysToStore) {
 		let expirationString = "";
